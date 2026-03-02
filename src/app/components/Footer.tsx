@@ -45,18 +45,18 @@ export default function Footer() {
             <div className="text-sm font-semibold text-dark">Connect</div>
             <ul className="mt-4 space-y-2 text-sm text-muted">
               <li>
-                <a href="#" className="hover:text-primary">
+                <a href="https://www.linkedin.com/in/firdaus-nuzula-nur-rosyid-228114166/" className="hover:text-primary">
                   LinkedIn
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-primary">
+                <a href="https://github.com/Finuz1945" className="hover:text-primary">
                   GitHub
                 </a>
               </li>
               <li>
-                <a href="mailto:you@email.com" className="hover:text-primary">
-                  you@email.com
+                <a href="mailto:firdausnuzula95@gmail.com" className="hover:text-primary">
+                  Email
                 </a>
               </li>
             </ul>
